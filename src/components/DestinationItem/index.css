@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.image {
+  width: 150px;
+  height: 100px;
+  border-radius: 10px;
+}
+.item {
+  margin: 20px;
+}
